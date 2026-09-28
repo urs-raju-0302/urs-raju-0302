@@ -8,7 +8,7 @@
    └── Machine Learning Projects
 
 🛠️ Technologies
-   Python • HTML • CSS • JavaScript • Django • SQL
+   Python • HTML • CSS • JavaScript • SQL
 
 🧠 Currently Learning
    Data Structures & Algorithms
